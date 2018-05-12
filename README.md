@@ -2,7 +2,7 @@
 
 java后台应用地址: [https://github.com/Gitsifu/websocket-learn](https://github.com/Gitsifu/websocket-learn)
 
-如何完成？
+## 如何完成？
 1.下载依赖
 ```
 npm install sockjs-client --save
@@ -16,6 +16,10 @@ npm install stompjs --save
 ```
 
 具体如何使用，看源码
+
+## 如何查看效果
+1.下载后台应用并运行
+2.下载此仓库执行 `npm run dev`
 
 
 > A Vue.js project
